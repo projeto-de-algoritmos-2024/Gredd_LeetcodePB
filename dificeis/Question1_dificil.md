@@ -6,17 +6,15 @@ https://leetcode.com/problems/candy/description/
 
 ## Resultados do juiz eletrônico
 
-![](/assets/)
+![](/assets/Result_dificil1.png)
 
 #### Caso 1:
 
-![](/assets/)
+![](/assets/Case1_dificil1.png)
 
 #### Caso 2:
 
-![](/assets/)
+![](/assets/Case2_dificil1.png)
 
-#### Caso 3:
 
-![](/assets/)
 
