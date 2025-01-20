@@ -2,9 +2,9 @@
 
 # Repositório destinado a documentação do trabalho de Projeto de algoritmo
 
-### Dupla: 28
+### Dupla: 24
 
-# Questões
+# Questões Greed
 
 <center>
 
@@ -20,20 +20,20 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank"></td>
-            <td>Médio</td>
+            <td><a href="/medias/Question1_media.md" target="_blank"></td>
+            <td>Média 1</td>
         <tr>
-            <td><a href="https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/?envType=daily-question&envId=2024-12-23" target="_blank">2471. Minimum Number of Operations to Sort a Binary Tree by Level</td>
-            <td>Médio</td>
+            <td><a href="/medias/Question2_media.md" target="_blank">134. Gas Station</td>
+            <td>Média 2</td>
         </tr>
         </tr>
         <tr>
-            <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank"></td>
-            <td>Difícil</td>
+            <td><a href="/dificeis/Question1_dificil.md" target="_blank"></td>
+            <td>Difícil 1</td>
         </tr>
         <tr>
-            <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/" target="_blank">23. Merge k Sorted Lists</td>
-            <td>Difícil</td>
+            <td><a href="/dificeis/Question2_dificil.md" target="_blank">135. Candy</td>
+            <td>Difícil 2</td>
         </tr>
     </tbody>
 </table>
@@ -91,16 +91,16 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://youtu.be/wolblVhifGI" target="_blank">Média 1</a></td>
+            <td><a href="https://youtu.be/J29t0P8qfAM?si=a9pwVa63MEuzH2fs" target="_blank">Média 1</a></td>
         </tr>
         <tr>
-            <td><a href="https://youtu.be/Jqip9J3S8ks?si=c9VlIi04JVzKvfgp" target="_blank">Média 2</a></td>
+            <td><a href="https://youtu.be/SXKLJt_mIh8" target="_blank">Média 2</a></td>
         </tr>
         <tr>
-            <td><a href="https://youtu.be/1aJr32nAzII" target="_blank">Difícil 1</a></td>
+            <td><a href="https://youtu.be/XIqldVec3Zw?si=6s47igGMc88YH2Lu" target="_blank">Difícil 1</a></td>
         </tr>
         <tr>
-            <td><a href="https://youtu.be/3_ks0CxTmDM?si=f0YmbmzYhisUb3Ln" target="_blank">Difícil 2</a></td>
+            <td><a href="https://youtu.be/-wWgzLhX2mA" target="_blank">Difícil 2</a></td>
         </tr>
     </tbody>
 </table>
