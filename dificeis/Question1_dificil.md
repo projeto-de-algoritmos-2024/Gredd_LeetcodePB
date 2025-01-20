@@ -1,8 +1,8 @@
-## 135. Candy
+## 330. Patching Array
 
-https://leetcode.com/problems/candy/description/
+https://leetcode.com/problems/patching-array/
 
-# Nível da questão:  <span style="color: yellow;">Dificil</span>
+# Nível da questão:  <span style="color: red;">Dificil</span>
 
 ## Resultados do juiz eletrônico
 
@@ -16,5 +16,7 @@ https://leetcode.com/problems/candy/description/
 
 ![](/assets/Case2_dificil1.png)
 
+#### Caso 3:
 
+![](/assets/Case3_dificil1.png)
 
